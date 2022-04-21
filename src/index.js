@@ -10,6 +10,7 @@ export * from './math-trig.js'
 export * from './miscellaneous.js'
 export * from './statistical.js'
 export * from './text.js'
+export * from './ethers.js'
 
 // Re-export function T due to conflict in statistical.js
 export { T } from './text.js'

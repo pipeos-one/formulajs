@@ -46,6 +46,7 @@
     "test:watch": "mocha --watch --parallel --reporter min"
   },
   "dependencies": {
+    "@babel/core": "^7.17.9",
     "bessel": "^1.0.2",
     "jstat": "^1.9.5"
   },
