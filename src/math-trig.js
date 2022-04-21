@@ -5,6 +5,7 @@ import * as statistical from './statistical.js'
 import * as utils from './utils/common.js'
 
 export function ABS(number) {
+  console.log("ABS TTTTTTT", number)
   number = utils.parseNumber(number)
 
   if (number instanceof Error) {
